@@ -1,0 +1,2 @@
+insert into mocklogin (username, hashedPasswd, isInstructor) values ('instructor', 'password', 'true');
+insert into mocklogin (username, hashedPasswd, isInstructor) values ('student', 'pswrd', 'false');

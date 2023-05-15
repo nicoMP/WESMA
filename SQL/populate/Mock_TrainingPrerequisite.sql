@@ -1,0 +1,10 @@
+insert into trainingprerequisite (levelID, moduleID, isOptional, timeBeforeSession) values (2, 6, 'false', '2 days');
+insert into trainingprerequisite (levelID, moduleID, isOptional, timeBeforeSession) values (4, 8, 'false', '1 month 2 days');
+insert into trainingprerequisite (levelID, moduleID, isOptional, timeBeforeSession) values (1, 1, 'false', '3 months');
+insert into trainingprerequisite (levelID, moduleID, isOptional, timeBeforeSession) values (3, 4, 'false', '2 months');
+insert into trainingprerequisite (levelID, moduleID, isOptional, timeBeforeSession) values (2, 1, 'false', '28 days');
+insert into trainingprerequisite (levelID, moduleID, isOptional, timeBeforeSession) values (2, 10, 'true', '10 days');
+insert into trainingprerequisite (levelID, moduleID, isOptional, timeBeforeSession) values (3, 10, 'false', '15 days');
+insert into trainingprerequisite (levelID, moduleID, isOptional, timeBeforeSession) values (2, 4, 'true', '4 hours');
+insert into trainingprerequisite (levelID, moduleID, isOptional, timeBeforeSession) values (3, 10, 'true', '23 days');
+insert into trainingprerequisite (levelID, moduleID, isOptional, timeBeforeSession) values (2, 2, 'false', '2 months');

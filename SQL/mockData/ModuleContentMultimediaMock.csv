@@ -1,0 +1,11 @@
+contentid,contentname,contentlocation,mediatype,moduleid
+1,Elevator video/mpeg Asset ,"/multimedia/video/mpeg/'"Elevator video/mpeg Asset '"",video/mpeg,4
+2,Soft Flooring and Base video/mpeg Asset ,"/multimedia/video/mpeg/'"Soft Flooring and Base video/mpeg Asset '"",video/mpeg,7
+3,Electrical and Fire Alarm application/msword Asset ,"/multimedia/application/msword/'"Electrical and Fire Alarm application/msword Asset '"",application/msword,6
+4,Marlite Panels (FED) audio/x-mpeg-3 Asset ,"/multimedia/audio/x-mpeg-3/'"Marlite Panels (FED) audio/x-mpeg-3 Asset '"",audio/x-mpeg-3,3
+5,Soft Flooring and Base application/x-excel Asset ,"/multimedia/application/x-excel/'"Soft Flooring and Base application/x-excel Asset '"",application/x-excel,7
+6,"Temp Fencing, Decorative Fencing and Gates video/mpeg Asset ","/multimedia/video/mpeg/'"Temp Fencing, Decorative Fencing and Gates video/mpeg Asset '"",video/mpeg,9
+7,Epoxy Flooring image/pjpeg Asset ,"/multimedia/image/pjpeg/'"Epoxy Flooring image/pjpeg Asset '"",image/pjpeg,10
+8,Electrical and Fire Alarm video/avi Asset ,"/multimedia/video/avi/'"Electrical and Fire Alarm video/avi Asset '"",video/avi,6
+9,Elevator application/mspowerpoint Asset ,"/multimedia/application/mspowerpoint/'"Elevator application/mspowerpoint Asset '"",application/mspowerpoint,4
+10,Sitework & Site Utilities audio/x-mpeg-3 Asset ,"/multimedia/audio/x-mpeg-3/'"Sitework & Site Utilities audio/x-mpeg-3 Asset '"",audio/x-mpeg-3,8

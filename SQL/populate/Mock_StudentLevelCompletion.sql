@@ -1,0 +1,10 @@
+insert into studentlevelcompletion (StudentID, levelID) values (19, 1);
+insert into studentlevelcompletion (StudentID, levelID) values (12, 4);
+insert into studentlevelcompletion (StudentID, levelID) values (17, 3);
+insert into studentlevelcompletion (StudentID, levelID) values (29, 2);
+insert into studentlevelcompletion (StudentID, levelID) values (7, 3);
+insert into studentlevelcompletion (StudentID, levelID) values (20, 1);
+insert into studentlevelcompletion (StudentID, levelID) values (12, 3);
+insert into studentlevelcompletion (StudentID, levelID) values (16, 4);
+insert into studentlevelcompletion (StudentID, levelID) values (3, 1);
+insert into studentlevelcompletion (StudentID, levelID) values (3, 3);

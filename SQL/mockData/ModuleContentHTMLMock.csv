@@ -1,0 +1,8 @@
+contentid,contentname,html,ismainpage,cangoback,moduleid
+1,Framing (Steel),<xml> html</xml>,t,t,5
+2,Fire Protection,<xml> html</xml>,t,f,2
+3,Electrical and Fire Alarm,<xml> html</xml>,t,f,6
+4,Marlite Panels (FED),<xml> html</xml>,t,f,3
+5,Epoxy Flooring,<xml> html</xml>,f,t,10
+6,Elevator,<xml> html</xml>,f,t,4
+7,Framing (Steel),<xml> html</xml>,t,f,5
